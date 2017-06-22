@@ -1,0 +1,178 @@
+table {
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+td {
+	border-left: 1px solid black;
+	border-top: 1px solid black;
+	margin-left: -1px;
+	margin-top: -1px;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 0px;
+}
+
+td.block {
+	background-image: url(imgs/block.jpg);
+}
+
+td div {
+	width: 50px;
+	height: 50px;
+	margin: -1px;
+}
+
+.type1 {
+	background-image: url(imgs/type1.jpg);
+	background-size: 100% 100%;
+}
+
+.type2 {
+	background-image: url(imgs/type2.jpg);
+	background-size: 100% 100%;
+}
+
+.type3 {
+	background-image: url(imgs/type3.jpg);
+	background-size: 100% 100%;
+}
+
+.type4 {
+	background-image: url(imgs/type4.jpg);
+	background-size: 100% 100%;
+}
+
+.type5 {
+	background-image: url(imgs/type5.jpg);
+	background-size: 100% 100%;
+}
+
+.type6 {
+	background-image: url(imgs/type6.jpg);
+	background-size: 100% 100%;
+}
+
+
+.road_l {
+	background-image: url(imgs/road_l.png);
+	background-size: 100% 100%;	
+}
+
+.road_u {
+	background-image: url(imgs/road_l.png);
+	background-size: 100% 100%;	
+	ransform: rotate(90deg);
+	-ms-transform: rotate(90deg);             /* IE 9 */
+	-webkit-transform: rotate(90deg);      /* Safari and Chrome */
+	-o-transform: rotate(90deg);              /* Opera */
+	-moz-transform: rotate(90deg);         /* Firefox */
+}
+
+.road_r {
+	background-image: url(imgs/road_l.png);
+	background-size: 100% 100%;	
+	ransform: rotate(180deg);
+	-ms-transform: rotate(180deg);             /* IE 9 */
+	-webkit-transform: rotate(180deg);      /* Safari and Chrome */
+	-o-transform: rotate(180deg);              /* Opera */
+	-moz-transform: rotate(180deg);         /* Firefox */
+}
+
+.road_d {
+	background-image: url(imgs/road_l.png);
+	background-size: 100% 100%;	
+	ransform: rotate(270deg);
+	-ms-transform: rotate(270deg);             /* IE 9 */
+	-webkit-transform: rotate(270deg);      /* Safari and Chrome */
+	-o-transform: rotate(270deg);              /* Opera */
+	-moz-transform: rotate(270deg);         /* Firefox */
+}
+
+.road_lr {
+	background-image: url(imgs/road_lr.png);
+	background-size: 100% 100%;	
+}
+.road_ud {
+	background-image: url(imgs/road_lr.png);
+	background-size: 100% 100%;
+	transform: rotate(90deg);
+	-ms-transform: rotate(90deg);             /* IE 9 */
+	-webkit-transform: rotate(90deg);      /* Safari and Chrome */
+	-o-transform: rotate(90deg);              /* Opera */
+	-moz-transform: rotate(90deg);         /* Firefox */
+}
+.road_ul {
+	background-image: url(imgs/road_ul.png);
+	background-size: 100% 100%;
+}
+
+.road_ur {
+	background-image: url(imgs/road_ul.png);
+	background-size: 100% 100%;
+	transform: rotate(90deg);
+	-ms-transform: rotate(90deg);             /* IE 9 */
+	-webkit-transform: rotate(90deg);      /* Safari and Chrome */
+	-o-transform: rotate(90deg);              /* Opera */
+	-moz-transform: rotate(90deg);         /* Firefox */
+}
+
+.road_dr {
+	background-image: url(imgs/road_ul.png);
+	background-size: 100% 100%;
+	transform: rotate(180deg);
+	-ms-transform: rotate(180deg);             /* IE 9 */
+	-webkit-transform: rotate(180deg);      /* Safari and Chrome */
+	-o-transform: rotate(180deg);              /* Opera */
+	-moz-transform: rotate(180deg);         /* Firefox */
+}
+
+.road_dl {
+	background-image: url(imgs/road_ul.png);
+	background-size: 100% 100%;
+	transform: rotate(270deg);
+	-ms-transform: rotate(270deg);             /* IE 9 */
+	-webkit-transform: rotate(270deg);      /* Safari and Chrome */
+	-o-transform: rotate(270deg);              /* Opera */
+	-moz-transform: rotate(270deg);         /* Firefox */
+}
+
+.road_ulr {
+	background-image: url(imgs/road_ulr.png);
+	background-size: 100% 100%;
+}
+
+.road_udr {
+	background-image: url(imgs/road_ulr.png);
+	background-size: 100% 100%;
+	transform: rotate(90deg);
+	-ms-transform: rotate(90deg);             /* IE 9 */
+	-webkit-transform: rotate(90deg);      /* Safari and Chrome */
+	-o-transform: rotate(90deg);              /* Opera */
+	-moz-transform: rotate(90deg);         /* Firefox */
+}
+
+.road_dlr {
+	background-image: url(imgs/road_ulr.png);
+	background-size: 100% 100%;
+	transform: rotate(180deg);
+	-ms-transform: rotate(180deg);             /* IE 9 */
+	-webkit-transform: rotate(180deg);      /* Safari and Chrome */
+	-o-transform: rotate(180deg);              /* Opera */
+	-moz-transform: rotate(180deg);         /* Firefox */
+}
+
+.road_udl {
+	background-image: url(imgs/road_ulr.png);
+	background-size: 100% 100%;
+	transform: rotate(270deg);
+	-ms-transform: rotate(270deg);             /* IE 9 */
+	-webkit-transform: rotate(270deg);      /* Safari and Chrome */
+	-o-transform: rotate(270deg);              /* Opera */
+	-moz-transform: rotate(270deg);         /* Firefox */
+}
+
+.road_udlr {
+	background-image: url(imgs/road_udlr.png);
+	background-size: 100% 100%;
+}

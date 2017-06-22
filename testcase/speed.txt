@@ -1,0 +1,20 @@
+====== Running Test 0 ======
+Ok, time: 81ms
+====== Running Test 1 ======
+Ok, time: 405ms
+====== Running Test 2 ======
+Ok, time: 675ms
+====== Running Test 3 ======
+Ok, time: 2733ms
+====== Running Test 4 ======
+Ok, time: 4885ms
+====== Running Test 5 ======
+Ok, time: 26416ms
+====== Running Test 6 ======
+Ok, time: 119272ms
+====== Running Test 7 ======
+Ok, time: 17632ms
+====== Running Test 8 ======
+Ok, time: 1.49052e+06ms
+====== Running Test 9 ======
+Ok, time: 828661ms
